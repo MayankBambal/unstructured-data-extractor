@@ -1,0 +1,31 @@
+# Core data processing
+pandas==2.1.4
+numpy==1.26.2
+
+# Environment and configuration
+python-dotenv==1.0.0
+
+# API clients
+openai==1.84.0
+
+# Web scraping and HTML processing
+requests==2.31.0
+beautifulsoup4==4.12.2
+
+# SEC data downloading
+sec-edgar-downloader==5.0.1
+
+# File and content processing
+python-magic==0.4.27
+
+# LangChain for advanced prompting
+langchain==0.1.17
+langchain-core==0.1.52
+langchain-openai==0.1.7
+pydantic==2.11.5
+
+# Development and testing
+pytest==7.4.3
+
+# Additional utilities
+typing-extensions==4.14.0 
